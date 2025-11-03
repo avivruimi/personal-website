@@ -1,0 +1,13 @@
+body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.card {
+    display: flex;
+    width: 300px;
+    height: 400px;
+    border: 1px solid skyblue;
+    border-radius: 5px;
+    justify-content: space-around;
+}
+    
