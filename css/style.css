@@ -1,8 +1,9 @@
 body {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     margin: 20px;
+    background-image: url("../images/starry_sky.jpg");
+    background-size: cover;
 }
-
 
 @keyframes card-background {
     from {
